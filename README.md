@@ -64,11 +64,9 @@ Interactive visualization (coming soon)</p>
 • AIによる関連ノード提案や要約支援</p>
 　AI-powered related node suggestions and summarization</p>
 
-⸻
-
 ## スクリーンショット / Screenshots
 
-PC(old type)
+PC(Old type)
 <img width="1435" height="744" alt="スクリーンショット 2025-05-22 15 07 29" src="https://github.com/user-attachments/assets/5d6fa1ec-38a1-4022-a34a-b0d0d99996f7" />
 
 Moblile(New Type)
