@@ -2,21 +2,17 @@
 where knowledge grows  
 -Connect your thoughts. Imagine what’s next.
 
-⸻
-
 ## 概要 / Overview
 現在の検索エンジンやSNSには、以下のような問題があります：
 Modern search engines and social media platforms have the following issues:
-	•	必要な情報に辿り着きにくい（検索の困難）
+• 必要な情報に辿り着きにくい（検索の困難）
 Hard to reach truly relevant information (search difficulty)
-	•	関連情報を体系的に把握しづらい（断片化・構造の不在）
+• 関連情報を体系的に把握しづらい（断片化・構造の不在）
 Hard to see related information in a structured way (fragmentation)
-	•	情報の真偽や重みが分かりにくい（信頼性の不明瞭さ）
+• 情報の真偽や重みが分かりにくい（信頼性の不明瞭さ）
 Unclear trustworthiness or significance of information
-	•	得た情報が積み重ならず、知識が流れていってしまう（累積性の欠如）
+• 得た情報が積み重ならず、知識が流れていってしまう（累積性の欠如）
 Knowledge does not accumulate—information just flows away
-
-⸻
 
 そこで「知識を記録する」だけでなく、「構造的に育てていく」という発想に至りました。
 Thus, we arrived at the idea of not just recording knowledge — but growing it structurally.
@@ -24,11 +20,11 @@ Thus, we arrived at the idea of not just recording knowledge — but growing it 
 それを形にしたのが、**Woledge（ウォレッジ）**というツリー構造型ナレッジツールです。
 This concept is embodied in Woledge — a tree-structured knowledge-building tool.
 
-	•	情報をツリー構造で整理し
+• 情報をツリー構造で整理し
 Organize your knowledge in a tree structure
-	•	他人のツリーも参照・接ぎ木でき
+• 他人のツリーも参照・接ぎ木でき
 Reference and graft parts of others’ trees
-	•	自分の思索を育てる“思考の森”として機能します。
+• 自分の思索を育てる“思考の森”として機能します。
 Grow your own forest of thoughts and insights
 
 さらに信頼性の不透明性や、知らない情報に辿りつけないといった問題にも対応。
@@ -43,35 +39,33 @@ Unlike traditional platforms like search engines, Notion, Wikipedia, or X,
 洗練された集合知と個人を接続し、成長する、ユーザビリティの高い情報空間を目指して開発中です。
 Woledge is being developed as a new, refined and evolving information space that connects collective intelligence with personal insight in a highly usable interface.
 
-⸻
-
 ## 主な特徴 / Key Features
-	•	ナレッジツリー：ノードと枝で知識を階層化
+• ナレッジツリー：ノードと枝で知識を階層化
 Visualize knowledge as trees with nodes and branches
-	•	個人と共有スペース：非公開・公開ツリーの管理
+• 個人と共有スペース：非公開・公開ツリーの管理
 Private and public knowledge spaces
-	•	Markdown対応エディター：プレビュー付き
+• Markdown対応エディター：プレビュー付き
 Markdown editor with live preview
-	•	タグ・参照リンク機能：知識同士の関係を強化
+• タグ・参照リンク機能：知識同士の関係を強化
 Tagging and cross-referencing between nodes
-	•	インタラクティブ可視化（予定）
+• インタラクティブ可視化（予定）
 Interactive visualization (coming soon)
 
 ⸻
 
 ## 技術スタック / Tech Stack
-	•	フロントエンド / Frontend: React Native (Expo)
-	•	バックエンド / Backend: Supabase (PostgreSQL, Auth, Storage)
-	•	その他 / Others: D3.js
+• フロントエンド / Frontend: React Native (Expo)
+• バックエンド / Backend: Supabase (PostgreSQL, Auth, Storage)
+• その他 / Others: D3.js
 
 ⸻
 
 ## 今後の展望 / Future Plans
-	•	知識の共同編集・ブランチフォーク機能
+• 知識の共同編集・ブランチフォーク機能
 　Collaborative editing and branch forking
-	•	知識のインポート・エクスポート
+• 知識のインポート・エクスポート
 　Import/export support
-	•	AIによる関連ノード提案や要約支援
+• AIによる関連ノード提案や要約支援
 　AI-powered related node suggestions and summarization
 
 ⸻
