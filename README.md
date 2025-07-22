@@ -91,4 +91,7 @@ We are currently developing Woledge for future large-scale deployment, enabling 
 <br>
 ご興味のある方は以下のアドレスまでご連絡ください。</p>
 If you’re interested, feel free to reach out at</p>
-hottokenyai@gmail.com
+hottokenyai@gmail.com</p>
+</br>
+※このリポジトリはアプリの紹介専用です。実装コードはプライベートリポジトリにて管理中です。</p>
+This repository is for introducing the app only. The source code is managed in a private repository.</p>
