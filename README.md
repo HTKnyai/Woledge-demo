@@ -1,5 +1,5 @@
 # アプリ紹介　Woledge
-where knowledge grows.</p>
+Where knowledge grows.</p>
 --Connect your thoughts. Imagine what’s next.
 
 ## 概要 / Overview
